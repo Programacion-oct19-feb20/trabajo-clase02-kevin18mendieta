@@ -1,0 +1,5 @@
+tematicas
+
+aprender a usar git 
+
+poner en practica 
